@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Engineering and Computer Science Degree @Monash University<br>🤝 I’m looking for advice on how to upskill myself as a software engineering student<br>🌱 I’m currently learning full stack development
+🔭 I’m currently working on my Engineering and Information Technology Degree @Monash University<br>🤝 I’m looking for advice on how to upskill myself as a software engineering student<br>🌱 I’m currently learning full stack development
 
 
 # 💻 Tech Stack:
